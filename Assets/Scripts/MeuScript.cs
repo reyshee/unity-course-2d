@@ -8,7 +8,7 @@ public class MeuScript : MonoBehaviour
     void Start()
     {
         print("BEM VINDO");
-        print("SEU PORRA");     
+        print("Senhor");     
         
     }
 
